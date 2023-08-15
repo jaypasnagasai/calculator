@@ -1,4 +1,4 @@
-# Advanced Calculator
+# Calculator
 
 This is a Python program that implements an advanced calculator capable of performing various mathematical operations. The calculator provides a user-friendly interface to perform calculations and interact with the memory feature for storing values.
 
